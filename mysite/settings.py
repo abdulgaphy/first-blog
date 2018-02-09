@@ -25,7 +25,7 @@ SECRET_KEY = 'x=n+)j0s)^9up3@p!vep82d!)t!*aj_d&7x#7v@3wv_&n$rcg7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','gaphy.pythonanywhere.com']
 
 
 # Application definition
